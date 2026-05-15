@@ -1,15 +1,16 @@
-## Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=roll-jie&left_color=green&right_color=red)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roll-jie&show_icons=true&theme=transparent)
+## Hi there 👋  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=roll-jie)
 
 ## 🎓 Education
+
+- **M.E. in Electronic Information (Professional Master)**  
+  Zhejiang University · `Incoming Fall 2026`
 
 - **B.E. in Computer Science and Technology**  
   Wuhan University · `2022.09 – 2026.06`
 
-- **M.E. in Electronic Information (Professional Master)**  
-  Zhejiang University · `Incoming Fall 2026`
+## 📈 Activity
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roll-jie&bg_color=00000000&color=79859e&line=79859e&hide_border=true&point=79859e)
+
 <!--
 **roll-jie/roll-jie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
