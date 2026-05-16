@@ -1,7 +1,8 @@
 ## Hi there 👋  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=roll-jie)
-![Metrics](/github-metrics.svg)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light&username=waa-f&ext=heatmap&font=Arial)
+<p>
+  <img align="middle" width="500" src="/github-metrics.svg" alt="Metrics">
+  <img align="middle" width="500" src="https://leetcard.jacoblin.cool/waa-f?site=cn&theme=light&username=waa-f&ext=heatmap&font=Arial&border=0" alt="Leetcode Stats">
+</p>
 
 ## 🎓 Education
 
