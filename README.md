@@ -1,4 +1,7 @@
 ## Hi there 👋  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=roll-jie)
+![Metrics](/github-metrics.svg)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light&username=waa-f&ext=heatmap&font=Arial)
 
 ## 🎓 Education
 
