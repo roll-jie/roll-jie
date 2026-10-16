@@ -7,7 +7,7 @@
 ## 🎓 Education
 
 - **M.E. in Electronic Information (Professional Master)**  
-  Zhejiang University · `Incoming Fall 2026`
+  Zhejiang University · `2026.09 - `
 
 - **B.E. in Computer Science and Technology**  
   Wuhan University · `2022.09 – 2026.06`
